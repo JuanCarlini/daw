@@ -24,3 +24,7 @@ Su objetivo es practicar el flujo basico de trabajo con Git y GitHub: vinculacio
 ## Estado
 
 Actividad Inicial - Clase 01 completada.
+
+Actividad Index - Clase 02 completada.
+
+Actividad Formualrio - Clase 03 completada.
