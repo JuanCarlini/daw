@@ -1,30 +1,29 @@
 # Desarrollo y Arquitecturas Web (DAW)
 
-**Estudiante:** Juan Andres Carlini  
-**Comision:** T1  
-**Materia:** Desarrollo y Arquitecturas Web  
+**Alumno:** Juan Andres Carlini
+**Comision:** T1
 **Universidad:** Universidad Abierta Interamericana (UAI)
 
-## Objetivo del repositorio
+## Descripcion del repositorio
 
-Repositorio creado como parte de la Actividad Inicial de la Clase 01 de la materia Desarrollo y Arquitecturas Web.
-
-Su objetivo es practicar el flujo basico de trabajo con Git y GitHub: vinculacion de un repositorio local con un repositorio remoto, versionado de archivos, creacion de ramas paralelas, Pull Requests y merges hacia la rama principal.
-
-## Contenido del repositorio
-
-- Archivo README.md con los datos de la cursada.
-- Flujo de trabajo basado en ramas paralelas y Pull Requests.
+Repositorio creado para las actividades practicas de la materia Desarrollo y Arquitecturas Web.
+Cada actividad se desarrolla en una branch separada y se integra a main mediante Pull Request.
 
 ## Herramientas utilizadas
 
-- Git como sistema de control de versiones.
-- GitHub como plataforma de repositorio remoto.
+- Git para control de versiones
+- GitHub como repositorio remoto
 
-## Estado
+## Noticias utilizadas en las actividades
 
-Actividad Inicial - Clase 01 completada.
+| Actividad | Noticia | URL |
+|-----------|---------|-----|
+| Clase 02 y 03 | Satellites on Fire: la startup argentina que detecta incendios antes que la NASA | https://www.infobae.com/economia/2025/04/08/satellites-on-fire-la-startup-argentina-que-detecta-incendios-antes-que-la-nasa/ |
+| Clase 04 | 2024 fue el año más caluroso desde que hay registros | https://www.lanacion.com.ar/ciencia/2024-fue-el-ano-mas-caluroso-desde-que-hay-registros-nid10012025/ |
 
-Actividad Index - Clase 02 completada.
+## Estado de las actividades
 
-Actividad Formualrio - Clase 03 completada.
+- Actividad Clase 01: Completada
+- Actividad Clase 02: Completada
+- Actividad Clase 03: Completada
+- Actividad Clase 04: Completada
